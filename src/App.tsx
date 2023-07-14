@@ -1,9 +1,8 @@
 import React from 'react';
-import {ShoppingCart} from "./React/Override-Default-Props";
-
+import ControlledInput from "./React/Create-a-Controlled-Input";
 const App = ()=> {
   return  <div>
-    <ShoppingCart/>
+    <ControlledInput/>
   </div>
 }
 
