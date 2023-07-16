@@ -1,8 +1,8 @@
 import React from 'react';
-import ControlledInput from "./React/Create-a-Controlled-Input";
+import MyForm from "./React/Create-a-Controlled-Form";
 const App = ()=> {
   return  <div>
-    <ControlledInput/>
+    <MyForm/>
   </div>
 }
 
